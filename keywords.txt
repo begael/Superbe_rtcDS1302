@@ -1,0 +1,14 @@
+Rtc_DS1302	KEYWORD1
+Superbe_rtc_DS1302	KEYWORD1
+begin	KEYWORD2
+readTime	KEYWORD2
+readDateTime	KEYWORD2
+writeTime	KEYWORD2
+writeDateTime	KEYWORD2
+second	KEYWORD2
+minute	KEYWORD2
+hour	KEYWORD2
+weekDay	KEYWORD2
+monthDay	KEYWORD2
+month	KEYWORD2
+year	KEYWORD2
